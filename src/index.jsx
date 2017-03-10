@@ -4,6 +4,6 @@ import App from './App';
 
 
 render(
-  <App />,
+  <App user='arkgast' />,
   document.getElementById('app')
 );
